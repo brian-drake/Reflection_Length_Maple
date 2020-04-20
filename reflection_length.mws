@@ -1,0 +1,230 @@
+{VERSION 6 0 "Windows 8" "6.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE
+ "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0
+ 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier"
+ 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 
+1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Ou
+tput12" -1 206 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 207 1 
+{CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "
+Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2
+ 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 1
+" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 
+1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 
+0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Headin
+g 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" 
+-1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 
+2 -1 1 }{PSTYLE "HyperlinkWarning" -1 208 1 {CSTYLE "" -1 -1 "Courier \+
+New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "Annotation Tex
+t" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Mapl
+e Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "H
+elp Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hel
+p Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 
+1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2
+ 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Cour
+ier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 
+201 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Pla
+ceholder" -1 202 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }
+{CSTYLE "Code" -1 203 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "2D Inert Output" -1 204 "Times" 1 12 144 144 144 1 2 2 2 2 
+1 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 205 "Times" 1 1 0 0 0 1
+ 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 
+2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12
+ 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 
+128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times"
+ 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0
+ 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 206 "Times" 1
+ 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 208 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1
+ 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 209 "Times" 1 12 175 
+0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Tim
+es" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 210
+ "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 
+"Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 255 "#This worksheet fi
+nds the reflection length (also called absolute length) of elements in
+ the universal rank 3 Coxeter group.  It uses the numbers game to dete
+rmine if an expression is equal to the identity, and it uses Dyer's th
+eorem to calculate lengths." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+50 "#a, b, and c define chip firing for the generators" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "a:= proc(x);\n" }{MPLTEXT 1 0 35 " \+
+ [-x[1],x[2]+2*x[1],x[3]+2*x[1]];\n" }{MPLTEXT 1 0 9 "end proc;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "f*6#I\"xG6\"F%F%F%7%,$&9$6#\"\"\"!\"\",&
+&F)6#\"\"#F+F(F0,&&F)6#\"\"$F+F(F0F%F%F%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "b:= proc(x);\n" }{MPLTEXT 1 0 35 "  [x[1]+2*x[2],-x[2
+],x[3]+2*x[2]];\n" }{MPLTEXT 1 0 9 "end proc;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "f*6#I\"xG6\"F%F%F%7%,&&9$6#\"\"\"F+&F)6#\"\"#F.,$F,!\"\",
+&&F)6#\"\"$F+F,F.F%F%F%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "
+c:= proc(x);\n" }{MPLTEXT 1 0 35 "  [x[1]+2*x[3],x[2]+2*x[3],-x[3]];\n
+" }{MPLTEXT 1 0 9 "end proc;" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6#I\"x
+G6\"F%F%F%7%,&&9$6#\"\"\"F+&F)6#\"\"$\"\"#,&&F)6#F/F+F,F/,$F,!\"\"F%F%
+F%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "#fire runs the number
+s game when entered a list of a,b,c " }{MPLTEXT 1 0 82 "currently fire
+s right to left - to change to left to right change nops(w)-i+1 to 1" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "fire:=proc(w) local pos,i
+;\n" }{MPLTEXT 1 0 16 "  pos:=[1,1,1];\n" }{MPLTEXT 1 0 29 "  for i fr
+om 1 to nops(w) do\n" }{MPLTEXT 1 0 29 "    pos:=w[nops(w)-i+1](pos)\n
+" }{MPLTEXT 1 0 6 "  od;\n" }{MPLTEXT 1 0 5 "pos;\n" }{MPLTEXT 1 0 10 
+"end proc;\n" }{MPLTEXT 1 0 2 "  " }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6
+#I\"wG6\"6$I$posGF%I\"iGF%F%F%C%>8$7%\"\"\"F-F-?(8%F-F--I%nopsG%*prote
+ctedG6#9$I%trueGF2>F+-&F46#,(F0F-F/!\"\"F-F-6#F+F+F%F%F%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "fire([]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7%\"\"\"F#F#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+10 "fire([a]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7%!\"\"\"\"$F$" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "fire([a,b,a]);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "7%!\"&\"\"(\"#>" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "fire([b,a,b]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7%\"
+\"(!\"&\"#>" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 35 "#subword selects a subset of a list" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 28 "subword:=proc(w,S) local i;\n" }{MPLTEXT 
+1 0 34 "   [seq(w[S[i]],i=1..nops(S))];  \n" }{MPLTEXT 1 0 9 "end proc
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I\"wG6\"I\"SGF%6#I\"iGF%F%F%7#-
+I$seqG%*protectedG6$&9$6#&9%6#8$/F4;\"\"\"-I%nopsGF,6#F2F%F%F%" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "subword([a,b,c],\{1,3\});" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "7$I\"aG6\"I\"cGF$" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 29 "fire(subword([a,b,a],\{1,2\}));" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "7%!\"$\"\"&\"\"*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 29 "fire(subword([a,b,a],[1,2]));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7%!\"$\"\"&\"\"*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 83 "#next functions taken from various sources to list all subsets o
+f given cardinality" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "subl
+ist := proc(list, ini)\n" }{MPLTEXT 1 0 38 "  [ seq(list[i],i=ini..nop
+s(list)) ]:\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 26 "addElt := proc(elt, list)\n" }{MPLTEXT 1 0 21 "  loc
+al templist, i:\n" }{MPLTEXT 1 0 16 "  templist:=[]:\n" }{MPLTEXT 1 0 
+32 "  for i from 1 to nops(list) do\n" }{MPLTEXT 1 0 52 "    templist:
+=[ op(templist), [elt, op(list[i])] ]:\n" }{MPLTEXT 1 0 10 "  end do:
+\n" }{MPLTEXT 1 0 12 "  templist:\n" }{MPLTEXT 1 0 9 "end proc:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "listSubsets := proc(L, i)\n"
+ }{MPLTEXT 1 0 40 "  local n, j, fl, temp: # fl-final list\n" }
+{MPLTEXT 1 0 16 "  n := nops(L):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 26 "  if i=1 then # base case\n" }{MPLTEXT 1 0 12 "    fl:=[]:\n" }
+{MPLTEXT 1 0 25 "    for j from 1 to n do\n" }{MPLTEXT 1 0 27 "      f
+l:=[op(fl),[L[j]]]:\n" }{MPLTEXT 1 0 12 "    end do:\n" }{MPLTEXT 1 0 
+1 "\n" }{MPLTEXT 1 0 8 "  else \n" }{MPLTEXT 1 0 12 "    fl:=[]:\n" }
+{MPLTEXT 1 0 30 "    for j from 1 to n-i+1 do \n" }{MPLTEXT 1 0 45 "  \+
+    temp:=listSubsets(sublist(L,j+1),i-1):\n" }{MPLTEXT 1 0 31 "      \+
+temp:=addElt(L[j],temp):\n" }{MPLTEXT 1 0 29 "      fl:=[op(fl),op(tem
+p)]:\n" }{MPLTEXT 1 0 12 "    end do:\n" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 10 "  end if:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 6 "  \+
+fl:\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 23 "listSubsets([1,2,3],2);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "7%7$\"\"\"\"\"#7$F$\"\"$7$F%F'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 170 "#absol
+utelength removes subwords and fires the remainder to check if it is t
+he identity.  The number of entries removed is equal to the absolute l
+ength, as shown by Dyer." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 
+"absolutelength:= proc(w) local tlen, Sublist, j;\n" }{MPLTEXT 1 0 34 
+"  for tlen from 0 to nops(w)-1 do\n" }{MPLTEXT 1 0 61 "  Sublist:= li
+stSubsets([seq(i,i=1..nops(w))],nops(w)-tlen);\n" }{MPLTEXT 1 0 3 "  \+
+\n" }{MPLTEXT 1 0 35 "  for j from 1 to nops(Sublist) do\n" }{MPLTEXT 
+1 0 49 "  if fire( subword(w,Sublist[j]) )=[1,1,1] then \n" }{MPLTEXT 
+1 0 18 "     return tlen;\n" }{MPLTEXT 1 0 6 "  fi;\n" }{MPLTEXT 1 0 
+8 "od; od;\n" }{MPLTEXT 1 0 9 "nops(w);\n" }{MPLTEXT 1 0 9 "end proc;"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6#I\"wG6\"6%I%tlenGF%I(SublistGF%I
+\"jGF%F%F%C$?(8$\"\"!\"\"\",&-I%nopsG%*protectedG6#9$F.!\"\"F.I%trueGF
+2C$>8%-I,listSubsetsGF%6$7#-I$seqGF26$I\"iGF%/FA;F.F0,&F0F.F,F5?(8&F.F
+.-F16#F9F6@$/-I%fireGF%6#-I(subwordGF%6$F4&F96#FF7%F.F.F.OF,F0F%F%F%" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "absolutelength([]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "absolutelength([b]);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "absolutelength([
+a,b,a,b,a,b]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "absolutelength([a,b,c,a,b,c,a,b,c])
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 168 "#Words creates a list of all words of length n with \+
+no equal consecutive entries.  Then we take the length of each and sca
+n the list for the lengths we are looking for." }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 43 "Words:=proc(n) option remember; local i,j;\n" }
+{MPLTEXT 1 0 12 "L(0):=\{\{\}\};\n" }{MPLTEXT 1 0 21 "L(1):=\{[a],[b],
+[c]\};\n" }{MPLTEXT 1 0 21 "for i from 2 to n do\n" }{MPLTEXT 1 0 12 "
+  L(i):=\{\};\n" }{MPLTEXT 1 0 34 "  for j from 1 to nops(L(i-1)) do\n
+" }{MPLTEXT 1 0 29 "    if L(i-1)[j][i-1]=a then\n" }{MPLTEXT 1 0 62 "
+      L(i):=L(i) union \{[op(L(i-1)[j]),b],[op(L(i-1)[j]),c]\};\n" }
+{MPLTEXT 1 0 31 "    elif L(i-1)[j][i-1]=b then\n" }{MPLTEXT 1 0 64 " \+
+     L(i):=L(i) union \{[op(L(i-1)[j]),a],[op(L(i-1)[j]),c]\};  \n" }
+{MPLTEXT 1 0 31 "    elif L(i-1)[j][i-1]=c then\n" }{MPLTEXT 1 0 62 " \+
+     L(i):=L(i) union \{[op(L(i-1)[j]),a],[op(L(i-1)[j]),b]\};\n" }
+{MPLTEXT 1 0 8 "    fi;\n" }{MPLTEXT 1 0 8 "    od;\n" }{MPLTEXT 1 0 
+4 "od;\n" }{MPLTEXT 1 0 6 "L(n);\n" }{MPLTEXT 1 0 10 "end proc; " }}
+{PARA 11 "" 1 "" {XPPMATH 20 "f*6#I\"nG6\"6$I\"iGF%I\"jGF%6#I)remember
+GF%F%C&>-I\"LGF%6#\"\"!<#<\">-F.6#\"\"\"<%7#I\"aGF%7#I\"bGF%7#I\"cGF%?
+(8$\"\"#F69$I%trueG%*protectedGC$>-F.6#F?F2?(8%F6F6-I%nopsGFC6#-F.6#,&
+F?F6!\"\"F6FB@(/&&FM6#FIFNF9>FF-I&unionGFC6$FF<$7$-I#opGFC6#FTF;7$FfnF
+=/FSF;>FF-FX6$FF<$7$FfnF9Fin/FSF=>FF-FX6$FF<$F_oFen-F.6#FAF%F%F%" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "Words(2);" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "<(7$I\"aG6\"I\"bGF%7$F$I\"cGF%7$F&F$7$F&F(7$F(F$7$F(F&" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "Words(3);" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "<.7%I\"aG6\"I\"bGF%F$7%F$F&I\"cGF%7%F$F(F$7%F$F(F&7%F
+&F$F&7%F&F$F(7%F&F(F$7%F&F(F&7%F(F$F&7%F(F$F(7%F(F&F$7%F(F&F(" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "nops(%);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"#7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "LL:=[s
+eq(absolutelength(Words(9)[i]), i=1..nops(Words(9)))]:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "count:=0;\n" }{MPLTEXT 1 0 28 "for \+
+i from 1 to nops(LL) do\n" }{MPLTEXT 1 0 18 "  if LL[i]=3 then\n" }
+{MPLTEXT 1 0 20 "    count:=count+1;\n" }{MPLTEXT 1 0 6 "  fi;\n" }
+{MPLTEXT 1 0 4 "od;\n" }{MPLTEXT 1 0 6 "count;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"$9(" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 2 1 1805 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
